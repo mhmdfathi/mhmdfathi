@@ -22,6 +22,7 @@ const MohamedFathi = {
   loves: ["Backend", "Performance", "Real-world systems"],
   hates: ["Spaghetti Code", "Bad UX", "No Documentation"],
 };
+ ```
 
 🧰 TECH STACK (WEAPONS)
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,nextjs,nodejs,sequelize,postgres,mysql,redis,docker,git,github&perline=8" /> </p>
@@ -71,4 +72,4 @@ Figma (for logic, not colors 😄)
 “Average developers write code.
 Great developers build systems.”
 
-<p align="center"> ⭐ Star my repositories — or steal ideas, I don’t mind 😎 </p> ```
+<p align="center"> ⭐ Star my repositories — or steal ideas, I don’t mind 😎 </p>
