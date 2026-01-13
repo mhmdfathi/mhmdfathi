@@ -1,17 +1,58 @@
-<h1 align="center">Hi 👋, I'm mohamed fathi</h1>
-<h3 align="center">full stack | node js Developer</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Fathi</h1>
+<h3 align="center">Full Stack Node.js Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedhemeda&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedfathi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<p align="center">
-  <a href="LINK_CV">
-    <img src="https://img.shields.io/badge/My%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white">
-  </a>
-  <a href="LINK_PORTFOLIO">
-    <img src="https://img.shields.io/badge/My%20Portfolio-2962FF?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedhemeda&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhemeda&layout=compact&theme=dark" />
+---
+
+### 🚀 About Me
+- 💻 Full Stack Developer (Node.js)
+- ⚡ Love building modern web apps
+- 🌱 Always learning new technologies
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,nextjs,nodejs,sequelize,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathi&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfathi&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedfathi&theme=darkhub&row=1" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/mohamedfathi">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+### 🔥 Follow to get new updates
+⭐ Star my repos if you like my work
