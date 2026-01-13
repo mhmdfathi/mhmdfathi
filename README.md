@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Node.js Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Next.js;Clean+Code+%7C+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Node.js+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -13,14 +13,14 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (Node.js)
-- 🧠 Focused on clean, scalable architectures
-- ⚡ Passionate about modern web technologies
-- 🌱 Always improving & learning
+- 💻 Full Stack Node.js Developer  
+- ⚡ Building modern & scalable web apps  
+- 🧠 Clean Code & Performance focused  
+- 🌱 Always learning new technologies  
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,nextjs,nodejs,sequelize,git,github" />
 </p>
@@ -35,6 +35,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdfathi/mhmdfathi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mhmdfathi&theme=darkhub&no-frame=true&row=1" />
@@ -42,7 +49,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/mhmdfathi">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -57,9 +64,9 @@
 
 ---
 
-## 🔥 Quote I Live By
+## 🔥 Motto
 > “First, solve the problem. Then, write the code.”
 
 <p align="center">
-  ⭐ Star my repos if you like my work  
+⭐ Star my repos if you like my work  
 </p>
