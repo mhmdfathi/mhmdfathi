@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-2962FF?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhemeda&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhemeda&layout=compact&theme=dark" />
