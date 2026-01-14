@@ -1,47 +1,82 @@
-<h1 align="center">Mohamed Fathi</h1>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi, I'm Mohamed Fathi 👋</h1>
+<h3 align="center">Software Engineer | Full Stack Node.js Developer</h3>
+
 <p align="center">
-  Full Stack Developer • Node.js • System Design
+  <img src="https://komarev.com/ghpvc/?username=mhmdfathi&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mhmdfathi">
-    <img src="https://komarev.com/ghpvc/?username=mhmdfathi&style=flat&color=gray" />
+  <b>Follow to get New Updates</b>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-222?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="https://mhmdfathi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### About
-I build scalable web applications with a strong backend mindset.  
-Focused on clean architecture, performance, and real-world systems.
-
-- Backend-first thinking
-- Maintainable & testable code
-- Systems before features
-
----
-
-### Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,mysql,redis,docker&perline=8" />
+## 🔗 Connect & Competitive Programming
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://wa.me/201063987800"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
+  <a href="https://www.facebook.com/mhmd.fathi.103106?locale=ar_AR"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://github.com/mhmdfathi"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-### GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhmdfathi&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdfathi&layout=compact&hide_border=true&theme=default" />
+## 🛠 Top Technical Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,html,css,js,postgres,mysql,redis,docker,git,github&perline=7" />
 </p>
 
 ---
 
-### Philosophy
-> “Code is a liability until it solves a real problem.”
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmdfathi&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-### Links
-- GitHub: https://github.com/mhmdfathi  
-- LinkedIn: *(ضيفه لما تحب)*  
-- Email: *(اختياري)*
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdfathi&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhmdfathi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdfathi&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Highlights
+- Full Stack Developer (Node.js / TypeScript)
+- Backend-focused architecture mindset
+- Clean code & scalable systems
+- Real-world project experience
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmdfathi/mhmdfathi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧠 Final Word
+> “I don’t just write code — I design systems.”
+
+<p align="center">⭐ Star my repositories — or steal ideas, I don’t mind 😎</p>
