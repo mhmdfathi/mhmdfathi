@@ -37,9 +37,7 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,html,css,js,postgres,mysql,redis,docker,git,github&perline=7" />
 </p>
 
----
 
----
 
 
 
@@ -51,7 +49,7 @@
 - Clean code & scalable systems
 - Real-world project experience
 
----
+
 
 
 ---
