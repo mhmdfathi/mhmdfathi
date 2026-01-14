@@ -23,8 +23,8 @@
 
 ## 🔗 Connect & Competitive Programming
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:flife046@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mhmd-fathi-b693aa31a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://wa.me/201063987800"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
   <a href="https://www.facebook.com/mhmd.fathi.103106?locale=ar_AR"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://github.com/mhmdfathi"><img src="https://skillicons.dev/icons?i=github" /></a>
